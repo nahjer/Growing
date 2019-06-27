@@ -6,7 +6,7 @@ DESCRIPTION PLACEHOLDER
 
 FEATURES PLACEHOLDER
 
-## Getting started this app will help you to be able to keep track of your food dilevery at all times
+## Getting started this app will help you to be able to keep track of your growth and how well you are doing
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
